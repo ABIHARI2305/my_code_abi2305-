@@ -1,5 +1,5 @@
 # Final Project – Git and GitHub
-This repository contains the final project for the course.
+The repository contains the final project for the course.
 
 ## Files
 - LICENSE (Apache 2.0)
